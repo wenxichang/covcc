@@ -28,7 +28,7 @@ This project contain 2 commands:
 Just use `make CC=covcc` to recompile the module, and everything is ready.
 
 `covcc` use `gcc` as default compiler, `export ORIG_CC=your_cc` before `make` to overide it.
-
+you can also `export COVDEBUG=1` to show more messages.
 
 
 # Usage of cov_reader
