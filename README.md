@@ -27,6 +27,10 @@ This project contain 2 commands:
 
 Just use `make CC=covcc` to recompile the module, and everything is ready.
 
+`covcc` use `gcc` as default compiler, `export ORIG_CC=your_cc` before `make` to overide it.
+
+
+
 # Usage of cov_reader
 
 cov_reader is used to obtain coverage date from the kernel.
