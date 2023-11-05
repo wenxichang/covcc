@@ -23,6 +23,7 @@ This project contain 2 commands:
 # Usage of covcc
 
 **Do not need to recompile the kernel or change any kernel config**
+
 **Do not need to change the module code or makefile**
 
 Just use `make CC=covcc` to recompile the module, and everything is ready.
